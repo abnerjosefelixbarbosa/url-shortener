@@ -13,13 +13,12 @@
 - MVC.
 - Lombok.
 - Swegger 3.
-- Postgresql database.
 
 # Project execution
 
 ```bash
 # clone repository
-git clone https://github.com/abnerjosefelixbarbosa/challenge-back-end-hit.git
+git clone https://github.com/abnerjosefelixbarbosa/url-shortener.git
 ```
 
 # Author
